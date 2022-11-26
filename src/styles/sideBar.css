@@ -1,0 +1,47 @@
+.links a{
+    text-decoration: none;
+    color: rgba(22, 22, 21, 0.975);
+    font-size:larger;
+}
+.links li{
+    list-style-type: none;
+    padding: 20px 70px;
+
+}
+.links li:hover{
+    background-color: rgba(68, 207, 13, 0.345);
+}
+.links ul{
+    padding: 0px;
+    margin: 0px;
+}
+.sideBar{
+    background-color: rgba(214, 221, 213, 0.519);
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+}
+.head img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 10px 0px 10px 10px;
+}
+.head{
+    display: flex;
+    background-color: rgba(85, 185, 23, 0.627);
+}
+.ad-detail h2{
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 15px;
+    color: rgb(21, 21, 22);
+}
+.ad-detail p{
+    color: rgb(15, 15, 15);
+    margin-top: 0px;
+    margin-left: 5px;
+}
+.links{
+    margin: 0px;
+}

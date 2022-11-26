@@ -1,0 +1,92 @@
+.Sheet label {
+    margin-left: 1cm;
+    color: rgb(10, 9, 9);
+    font-size: large;
+}
+
+.enter{
+    display: flex;
+    background-image: url(../images/addBooksbg.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin-top: 0px;
+    opacity: 0.9;
+    
+}
+
+.Sheet input {
+    width: 15cm;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+    border-bottom: 1px solid rgb(11, 11, 11);
+    margin-left: 1cm;
+    padding-top: 20px;
+    font-size: medium;
+}
+
+.Sheet {
+    display: flex;
+    padding: 30px;
+    justify-content:center ;
+    margin-top: 0px;
+    /* margin-left: 0px; */
+    
+}
+
+
+.FormDetail {
+    background-color: rgba(248, 242, 208, 0.814);
+    width: 17cm;
+    padding-top: 10px;
+    border-radius: 5% ;
+    /* background-image: url(../images/home.jpg); */
+    background: linear-gradient(rgba(149, 148, 143, 0.4),rgba(172, 159, 82, 0.312));
+
+}
+
+.FormDetail h2 {
+    color: rgb(8, 8, 8);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.FormDetail button {
+    background-color: rgba(2, 3, 3, 0.838);
+    color: rgb(255, 255, 255);
+    width: 4cm;
+    height: 40px;
+    margin-left: 240px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    border-radius: 5%;
+    font-size:medium;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.FormDetail div {
+    margin: 20px 0px;
+}
+
+input:focus {
+    outline: none;
+}
+.enter{
+    margin-left: 250px;
+}
+.info{
+    width: 500px;
+    height: 200px;
+    /* color: rgba(130, 107, 78, 0.933); */
+    margin-top: 20px;
+    font-size: x-large;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.info h1{
+    color: rgba(240, 124, 89, 0.878);
+}
+/* .info p{
+    color: rgba(133, 22, 22, 0.89);
+} */

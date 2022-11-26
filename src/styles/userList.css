@@ -1,0 +1,47 @@
+.main{
+    margin-left: 250px;
+    padding-bottom: 30px;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+
+}
+.Ulist{
+    display: flex;
+    flex-wrap: wrap;
+
+    flex-direction: row;
+
+} 
+.sheet{
+    background-color: rgb(218, 110, 110);
+    margin: 60px;
+    color: aliceblue;
+    padding: 10px;
+    /* display: flex; */
+    justify-content: space-between;
+    border: solid 5px rgb(238, 239, 238);
+    border-radius: 5px;
+} 
+.first{
+    width: 200px;
+}
+
+.gender{
+    width: 200px;
+}
+
+.contact{
+    width: 200px;
+}
+.sum h1{
+    margin-left: 300px;
+    margin-top: 0px;
+    padding-top: 20px;
+    color: white;
+}
+.userlist{
+    background-color: rgba(239, 231, 183, 0.893);;
+    background-image: url(../images/addBooksbg.jpg);
+    background-size: cover;
+    
+}

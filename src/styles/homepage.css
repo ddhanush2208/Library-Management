@@ -1,0 +1,88 @@
+.homepage{
+    background-image: url(../images/home.jpg);
+    background-size: cover;
+    height: 100vh;
+    color: rgba(255, 245, 238, 0.962);
+    /* display: flex;
+    justify-content: space-around; */
+}
+.homepagedisp{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+.adminbtn{
+    background-color: rgba(217, 218, 189, 0.671);
+    height: 200px;
+    width: 300px;
+    padding-top:100px;
+    border-radius: 15%;
+    opacity: 0;
+}
+
+
+.adminbtn img{
+    height: 50px;
+    width: 50px;
+    border: 2px double black ;
+    border-radius: 10%;
+    margin-left: 120px;
+    
+}
+
+.adminbtn button{
+    width: 200px;
+    height: 60px;
+    border: 0;
+    font-size:x-large;
+    background-color: rgba(161, 90, 90, 0);
+    color: aliceblue;
+    border-radius: 10%;
+    margin-left: 50px;
+   
+}
+
+
+
+.userbtn{
+    background-color: rgba(217, 218, 189, 0.671);
+    height: 200px;
+    width: 300px;
+    padding-top:100px;
+    border-radius: 15%;
+    opacity: 0;
+
+    /* display: flex;
+    justify-content: space-between; */
+}
+
+.userbtn img{
+    height: 50px;
+    width: 50px;
+    border: 2px double black ;
+    border-radius: 10%;
+    margin-left: 120px;
+    
+    
+}
+#id1{
+    margin-left: 100px;
+    background-color: rgba(217, 218, 189, 0.671);
+}
+
+#id2{
+    margin-left: 1000px;
+    background-color: rgba(217, 218, 189, 0.671);
+}
+.userbtn button{
+    width: 200px;
+    height: 60px;
+    border: 0;
+    font-size:x-large;
+    background-color: rgba(161, 90, 90, 0);
+    color: aliceblue;
+    border-radius: 10%;
+    margin-left: 50px;
+    
+}
+

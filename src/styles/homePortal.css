@@ -1,0 +1,120 @@
+.homePortalDisp{
+    display: flex;
+    background-color: rgba(250, 243, 204, 0.981);
+    background-image: url(../images/addBooksbg.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.library{
+    margin-left: 250px;
+    width: 100px;
+}
+.library h5{
+    color: rgb(85, 92, 92);
+    font-style: italic;
+}
+.library h1{
+    font-size: xx-large;
+}
+.library p{
+    font-size: x-large;
+    margin: 0px 20px;
+}
+.e-book{
+    display: flex;
+    background-image: url(../images/home.jpg);
+    background-size: cover;
+    height: 55vh;
+    width: 1000px;
+    margin: 50px 150px;
+    margin-bottom: 420px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 15%;
+}
+
+.digital{
+    display: flex;
+    background-image: url(../images/adminHome.jpg);
+    background-size: cover;
+    height: 55vh;
+    width: 1000px;
+    margin: 50px 150px;
+    margin-bottom: 400px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 15%;
+
+}
+
+.magazines{
+    display: flex;
+    background-image: url(../images/home.jpg);
+    background-size: cover;
+    height: 55vh;
+    width: 1000px;
+    margin: 50px 150px;
+    margin-bottom: 400px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 15%;
+
+}
+
+.newspaper{
+    display: flex;
+    background-image: url(../images/adminHome.jpg);
+    background-size: cover;
+    height: 55vh;
+    width: 1000px;
+    margin: 50px 150px;
+    margin-bottom: 500px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 15%;
+
+}
+
+.card1{
+    width: 600px;
+    height: 450px;
+    background-color:white;
+    margin: 150px 150px 0px 150px;
+    padding: 20px 50px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 15%;
+
+}
+
+.card2{
+    width: 600px;
+    height: 370px;
+    background-color:white;
+    margin: 150px 150px 0px 150px;
+    padding: 10px 50px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 15%;
+
+}
+
+.card3{
+    width: 600px;
+    height: 370px;
+    background-color:white;
+    margin: 150px 150px 0px 150px;
+    padding: 20px 50px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 15%;
+
+}
+
+.card4{
+    width: 600px;
+    height:690px;
+    background-color:white;
+    margin: 150px 150px 0px 150px;
+    padding: 20px 50px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 15%;
+
+}
+.point{
+    width: 470px;
+    margin-left: 30px;
+}
